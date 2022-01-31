@@ -1,0 +1,4 @@
+truc.c: In function ‘main’:
+truc.c:13:10: warning: variable ‘wd_ptr’ set but not used [-Wunused-but-set-variable]
+    char *wd_ptr = NULL;
+          ^
